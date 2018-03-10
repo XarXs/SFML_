@@ -1,3 +1,8 @@
+//Testowy program
+//sprawdzający czy 
+//poprawnie zaimplementowano
+//biblioteke SFML
+
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
